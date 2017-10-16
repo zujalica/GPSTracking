@@ -1,0 +1,42 @@
+<resources>
+    <!-- App data -->
+    <string name="title_activity_main">MainActivity</string>
+    <string name="app_name">GPS Tracking</string>
+
+    <!-- Driver profile fragment -->
+    <string name="driverModelLiveData.profile.hint.name">Ime</string>
+    <string name="driverModelLiveData.profile.hint.lastName">Prezime</string>
+    <string name="driverModelLiveData.profile.hint.age">Godine</string>
+    <string name="driverModelLiveData.profile.hint.plateNumber">Registarska oznaka</string>
+
+    <!-- Navigation bar -->
+    <string name="navigatio.title.myRides">Vožnje</string>
+    <string name="navigation.title.newRide">Nova vožnja</string>
+    <string name="navigation.title.profile">Profil</string>
+    <string name="navigation.title.settings">Postavke</string>
+
+    <!-- Errors -->
+    <string name="error.validation.allowed.textWithSpaces">Dozvoljena su samo slova i razmak</string>
+    <string name="error.validation.allowed.numbersOnly">Dozvoljeni su samo brojevi</string>
+    <string name="error.validation.allowed.textWithDashes">Dozvoljena su samo slova i crtica</string>
+    <string name="error.validation.allowed.alphaNumericWithDashes">Dozvoljeni su samo alfanumerički znakovi i crtica</string>
+
+    <!-- Locale names -->
+    <string name="locale.language.croatian.name">Hrvatski</string>
+    <string name="locale.language.english.name">Engleski</string>
+
+    <!-- Settings fragment -->
+    <string name="settings.label.chooseLanguage">Odaberi jezik</string>
+
+    <!-- New ride Fragment -->
+    <string name="newRide.startLocation">Početna lokacija</string>
+    <string name="newRide.endLocation">Završna lokacija</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Dolazi uskoro!</string>
+
+    <!-- Permissions -->
+    <string name="permission_rationale_location">Pristup lokacijama je bitan za rad ove opcije.</string>
+    <string name="location_permission_denied">Ova opcija treba prava za pristup lokaciji kako bi radila ispravno. Molimo vas da kroz postavke vašeg uređaja omogućite pristup lokacijama za ovu aplikaciju.</string>
+    <string name="permission_required_toast">Pristup lokacijama je potreban za rad ove opcije.</string>
+</resources>

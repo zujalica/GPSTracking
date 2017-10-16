@@ -1,0 +1,42 @@
+<resources>
+    <!-- App data -->
+    <string name="title_activity_main">MainActivity</string>
+    <string name="app_name">GPS Tracking</string>
+
+    <!-- Driver profile fragment -->
+    <string name="driverModelLiveData.profile.hint.name">Name</string>
+    <string name="driverModelLiveData.profile.hint.lastName">Last name</string>
+    <string name="driverModelLiveData.profile.hint.age">Age</string>
+    <string name="driverModelLiveData.profile.hint.plateNumber">Plate number</string>
+
+    <!-- Navigation bar -->
+    <string name="navigatio.title.myRides">My rides</string>
+    <string name="navigation.title.newRide">New ride</string>
+    <string name="navigation.title.profile">Profile</string>
+    <string name="navigation.title.settings">Settings</string>
+
+    <!-- Errors -->
+    <string name="error.validation.allowed.textWithSpaces">Enter alphabetical characters with spaces only</string>
+    <string name="error.validation.allowed.numbersOnly">Enter numbers only</string>
+    <string name="error.validation.allowed.textWithDashes">Only alphabetical characters are allowed with \"-\"</string>
+    <string name="error.validation.allowed.alphaNumericWithDashes">Only alphanumeric characters and dashes are allowed</string>
+
+    <!-- Locale names -->
+    <string name="locale.language.croatian.name">Croatian</string>
+    <string name="locale.language.english.name">English</string>
+
+    <!-- Settings fragment -->
+    <string name="settings.label.chooseLanguage">Choose a language</string>
+
+    <!-- New ride Fragment -->
+    <string name="newRide.startLocation">Start Location</string>
+    <string name="newRide.endLocation">End Location</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Coming soon!</string>
+
+    <!--    Permissions    -->
+    <string name="permission_rationale_location">Access to the location service is required for this feature, which shows your current location on the map.</string>
+    <string name="location_permission_denied">This application requires location permission to enable the \'my location\' layer. Please try again and grant access to use the location.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'GPSTracking\'.</string>
+    <string name="permission_required_toast">Location permission is required for this option.</string>
+</resources>

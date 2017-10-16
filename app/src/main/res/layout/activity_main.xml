@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="zuja.buzz.gpstracking.activities.MainActivity">
+
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/navigation_bar_height"
+        android:background="@android:color/transparent"
+        >
+
+        <!-- inflating fragments -->
+
+    </FrameLayout>
+
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/navigation"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/navigation_bar_height"
+        android:layout_gravity="bottom"
+        android:background="@android:color/white"
+        app:elevation="@dimen/elevation_level_one"
+        android:elevation="@dimen/elevation_level_one"
+        app:itemIconTint="@drawable/navigation_bar_item_selector"
+        app:itemTextColor="@drawable/navigation_bar_item_selector"
+
+        app:menu="@menu/navigation" />
+
+</android.support.design.widget.CoordinatorLayout>

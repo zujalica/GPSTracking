@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="elevation_level_one">8dp</dimen>
+
+    <!-- Heights -->
+    <dimen name="navigation_bar_height">60dp</dimen>
+    <dimen name="profile_picture_max_height">80dp</dimen>
+
+    <!-- Widths -->
+    <dimen name="profile_picture_max_width">80dp</dimen>
+
+    <!-- Margins -->
+    <dimen name="default_margin">8dp</dimen>
+    <dimen name="fragment_container_bottom_margin">68dp</dimen>
+
+    <!-- Animation speed -->
+    <integer name="fragment_animation_speed">200</integer>
+
+</resources>

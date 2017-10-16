@@ -1,0 +1,14 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<resources>
+  <color name="primaryColor">#eeeeee</color>
+  <color name="primaryLightColor">#ffffff</color>
+  <color name="primaryDarkColor">#e2e2e2</color>
+  <color name="secondaryColor">#8bc34a</color>
+  <color name="colorAccent">#558b2f</color>
+  <color name="secondaryLightColor">#bef67a</color>
+  <color name="secondaryDarkColor">#5a9216</color>
+  <color name="backgroundColor">#ababab</color>
+  <color name="primaryTextColor">#000000</color>
+  <color name="secondaryTextColor">#000000</color>
+  <color name="disabled_color">#686868</color>
+</resources>

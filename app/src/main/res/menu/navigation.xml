@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_my_rides"
+        android:icon="@drawable/ic_assignment_black_24dp"
+        android:title="@string/navigatio.title.myRides" />
+
+    <item
+        android:id="@+id/navigation_new_ride"
+        android:icon="@drawable/ic_time_to_leave_black_24dp"
+        android:title="@string/navigation.title.newRide" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="@string/navigation.title.profile" />
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="@string/navigation.title.settings" />
+
+</menu>
